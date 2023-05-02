@@ -1,0 +1,3 @@
+[submodule "@local/mycarrier-nps"]
+	path = @local/mycarrier-nps
+	url = ssh://git@gitlab.playcourt.id:31022/mycarrier/mycarrier-nps.git
